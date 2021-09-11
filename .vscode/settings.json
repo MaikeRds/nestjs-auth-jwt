@@ -1,0 +1,16 @@
+{
+  // Define o tema dos ícones na sidebar
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.folders.associations": {
+    "entity": "class",
+    "migration": "tools",
+    "handlers": "typescript",
+    "dtos": "typescript",
+    "shared": "shared",
+  },
+ "typescript.inlayHints.parameterNames.enabled": "all",
+ "typescript.inlayHints.variableTypes.enabled": true,
+ "typescript.inlayHints.propertyDeclarationTypes.enabled" :true,
+ "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+}
